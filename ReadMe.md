@@ -38,4 +38,3 @@
   + Each key can map to at most one value
 
 - Hash Functions
-  + 
